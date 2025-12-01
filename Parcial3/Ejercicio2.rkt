@@ -1,7 +1,6 @@
 #lang racket
 
 ;; Ejercicio 2: Clasificación de temperatura
-;; Para ejecutar, corre este archivo con Racket.
 
 (define (clasificar-temperatura temp)
   (cond
@@ -28,3 +27,4 @@
 
 ;; Iniciar el programa
 (iniciar)
+
